@@ -15,7 +15,7 @@ Godot supports the following 3D *scene file formats*:
 
 * glTF 2.0. Godot has full support for text and binary formats.
 * DAE (COLLADA), an older format that is fully supported.
-* OBJ (Wavefront) formats. It is also fully supported, but pretty limited (no support for pivots, skeletons, etc).
+* OBJ (Wavefront) formats. It is also fully supported, but pretty limited (no support for pivots, skeletons, import hints, etc).
 * ESCN, a Godot specific format that Blender can export with a plugin.
 * FBX, supported via the Open Asset Import library. However, FBX is proprietary so we recommend using other formats
   listed above, if suitable for your workflow.
